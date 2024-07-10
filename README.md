@@ -8,7 +8,7 @@ Responsive Design: Optimized for various devices.
 ## Demo
 Check out the live demo here. [Vision Pro](https://iamvibhav.github.io/Apple-Vision-Pro/)
 
-# Technologies Used
+## Technologies Used
 HTML5
 CSS3
 JavaScript
